@@ -3,7 +3,12 @@ package bokonzi.com;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Premier class");
+		
+		
+		
+		
+		int nombre = 10 ; 
+		double nmb = double(nombre);
 
 	}
 
